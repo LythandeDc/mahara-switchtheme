@@ -1,0 +1,9 @@
+# Switchtheme
+
+Switchtheme est un plugin pour le CMS Mahara ( https://mahara.org ).
+
+Le plugin est un blocktype qui permet de changer facilement d'institution ainsi que de thème de l'institution.
+
+Il suffit de copier les fichiers et de les mettre dans votre site Mahara.
+
+Switchtheme est compatible avec la version 15.10 et 16.06 de Mahara.
