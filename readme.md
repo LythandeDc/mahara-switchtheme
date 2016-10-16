@@ -1,8 +1,8 @@
 # Switchtheme
-# Created by De Chiara Antonella 
-# http://develop4fun.com
+### Created by De Chiara Antonella 
+#### http://develop4fun.com
 
-EN
+## EN
 
 Switchtheme is a plugin for Mahara CMS ( https://mahara.org ).
 
@@ -13,7 +13,7 @@ Just copy the files and put them in your Mahara site.
 Switchtheme is compatible with the version 15.10 and 16.06 of Mahara.
 
 
-FR
+## FR
 
 Switchtheme est un plugin pour le CMS Mahara ( https://mahara.org ).
 
