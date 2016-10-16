@@ -1,4 +1,9 @@
 <?php
+/**
+ *
+ * @package    mahara
+ * @author     De Chiara Antonella - http://develop4fun.com
+ */
 
 define('INTERNAL', 1);
 
