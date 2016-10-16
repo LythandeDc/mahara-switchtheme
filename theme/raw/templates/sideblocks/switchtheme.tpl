@@ -9,7 +9,7 @@
     <form action="{$WWWROOT}local/switchtheme.php" method="post">
         <input value="{$themeid}" type="hidden" name="viewtheme">
         <input class="list-group-item bouton-instit-theme {if $themename|count_characters gte 25}laboiteaafficher{/if}" type="submit" value="{if $themename|count_characters gte 25}{$themename|substr:0:25} [...]{else}{$themename}{/if}">
-        {if $themename|count_characters gte 25}<div id="dialoginst" title="Le nom de votre institution"><span class='institution-over-hidden'>{$themename}</span></div>{/if}
+        {if $themename|count_characters gte 25}<div id="dialoginst" title="Your institution"><span class='institution-over-hidden'>{$themename}</span></div>{/if}
     </form>
 {/foreach}
 
