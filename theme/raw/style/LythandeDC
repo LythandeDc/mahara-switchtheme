@@ -1,0 +1,38 @@
+/*
+* Created by Antonella De Chiara 
+* http://develop4fun.com
+*/
+
+/***********************************
+SIDEBLOCKS
+***********************************/
+#sb-switchtheme form{
+    padding:20px;
+}
+#sb-switchtheme .submit.btn.btn-primary{
+    display:block;
+    margin:0 auto;
+    margin-top:15px;
+}
+#viewtheme-select {
+    display:block;
+    margin:0 auto;  
+}
+
+/* Boutons institutions*/
+.list-group-item.bouton-instit-theme {
+    border: 0px !important;
+    width: 100%;
+    text-align: left;
+}
+#sb-switchtheme form {
+    padding: 0 !important;
+    width: 100% !important;
+}
+#dialoginst {
+    padding: 5px;
+    z-index: 9999;
+}
+.letitreadeplacer {
+    display: inline-block;
+}
