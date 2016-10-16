@@ -1,4 +1,19 @@
 # Switchtheme
+# Created by De Chiara Antonella 
+# http://develop4fun.com
+
+EN
+
+Switchtheme is a plugin for Mahara CMS ( https://mahara.org ).
+
+The plugin is a BlockType that allows easy change institution and theme of the institution.
+
+Just copy the files and put them in your Mahara site.
+
+Switchtheme is compatible with the version 15.10 and 16.06 of Mahara.
+
+
+FR
 
 Switchtheme est un plugin pour le CMS Mahara ( https://mahara.org ).
 
