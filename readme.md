@@ -10,7 +10,7 @@ The plugin is a BlockType that allows easy change institution and theme of the i
 
 Just copy the files and put them in your Mahara site.
 
-Switchtheme is compatible with the version 15.10 and 16.06 of Mahara.
+Switchtheme is compatible with the version 16.04 of Mahara.
 
 
 ## FR
@@ -21,4 +21,4 @@ Le plugin est un blocktype qui permet de changer facilement d'institution ainsi 
 
 Il suffit de copier les fichiers et de les mettre dans votre site Mahara.
 
-Switchtheme est compatible avec la version 15.10 et 16.06 de Mahara.
+Switchtheme est compatible avec la version 16.04 de Mahara.
