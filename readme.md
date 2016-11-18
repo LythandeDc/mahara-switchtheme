@@ -1,6 +1,5 @@
 # Switchtheme
 ### Created by De Chiara Antonella 
-#### http://develop4fun.com
 
 ## EN
 
